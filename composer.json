@@ -1,0 +1,21 @@
+{
+    "name": "ahmadlab/hitung",
+    "description": "test package dari ahmad juma",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "authors": [
+    {
+      "name": "ahmad juma",
+      "email": "ahmadnorin@gmail.com",
+      "homepage": "https://nettter.com/fa",
+      "role": "Developer"
+    }
+  ],
+  "extra": {
+    "branch-alias": {
+      "dev-master": "0.1-dev"
+    }
+  }
+}
